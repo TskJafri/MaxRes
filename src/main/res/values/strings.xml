@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MaxRes_New</string>
+        <string name="my_image_description">This is an image</string>
+        <string name="submit">Submit</string>
+        <string name="download">Download</string>
+    <string name="try_again">Try Again</string>
+    <string name="browse_image">Browse Image</string>
+    <string name="maxres">MAXRES</string>
+    <string name="app_logo_description">app_logo</string>
+    <string name="original_image_description">processed image</string>
+    <string name="processed_image_description">processed image</string>
+</resources>

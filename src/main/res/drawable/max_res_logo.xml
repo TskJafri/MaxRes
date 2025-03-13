@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Background (optional, can be removed if not needed) -->
+    <group>
+        <path
+            android:fillColor="#121212"
+            android:pathData="M0,0h100v100h-100z"/>
+    </group>
+
+    <!-- Top Set of Lines -->
+    <group>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M30,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M35,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M40,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M45,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M50,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M55,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M60,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M65,0v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M70,0v35" />
+    </group>
+
+    <!-- Middle Set of Lines -->
+    <group>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M20,40h60"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M20,45h60"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M20,50h60" />
+    </group>
+
+    <!-- Bottom Set of Lines -->
+    <group>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M30,55v35"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M35,55v35"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M40,55v35"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M45,55v35"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M50,55v35"/>
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M55,55v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M60,55v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M65,55v35" />
+        <path android:strokeWidth="3" android:strokeColor="#FFD700" android:pathData="M70,55v35" />
+    </group>
+</vector>
